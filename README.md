@@ -1,4 +1,4 @@
-# YouTube Channel Crawler Pro
+# YouTube Channel Crawler v1.0
 
 ![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![YouTube API](https://img.shields.io/badge/YouTube%20API-v3-red.svg)
